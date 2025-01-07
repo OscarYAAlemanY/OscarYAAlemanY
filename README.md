@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oscar Aleman 
 - 👀 I’m interested in full stack development 
-- 🌱 I’m currently learning full stack with jS & Node next on Ruby on Rails
+- 🌱 I’m currently learning full stack with jS & Node.js
 - 💞️ I’m looking to collaborate on front or back end project to improve into my coding skills 
 - 📫 How to reach me 
 
